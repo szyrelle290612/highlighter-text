@@ -1,0 +1,14 @@
+{
+  "name": "highlighter-text-extension",
+  "version": "1.0.0",
+  "description": "highlight text extension chrome",
+  "main": "highlighter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "szyrelle",
+  "license": "ISC",
+  "dependencies": {
+    "@webcomponents/custom-elements": "^1.5.1"
+  }
+}
